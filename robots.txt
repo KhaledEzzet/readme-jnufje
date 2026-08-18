@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://KhaledEzzet.github.io/readme-jnufje/sitemap.xml
